@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/nancyalaswad90/breast-cancer-dataset/data
+
+https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction?resource=download
